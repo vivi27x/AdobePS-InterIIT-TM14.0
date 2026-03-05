@@ -5,7 +5,7 @@
 --- 
 **AI-Powered Image Editing Workflows**
 <video width="100%" controls>
-  <source src="https://github.com/vivi27x/AdobePS-InterIIT-TM14.0/blob/main/Task3_Demo_Video.MP4" type="video/mp4">
+  <source src="https://github.com/vivi27x/AdobePS-InterIIT-TM14.0/raw/main/Task3_Demo_Video.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </div>
