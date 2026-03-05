@@ -4,12 +4,8 @@
 
 --- 
 **AI-Powered Image Editing Workflows**
-
-
-
-
-Task 1/Task_1_Interactive_Demo.mp4
-
+[Task 1/Task_1_Interactive_Demo.mp4
+](https://github.com/vivi27x/AdobePS-InterIIT-TM14.0/blob/a8902415944ba1f59e0ae37ab21efad17a324dc0/Task%201/Task_1_Interactive_Demo.mp4)
 </div>
 
 ---
