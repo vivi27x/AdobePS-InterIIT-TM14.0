@@ -1,6 +1,6 @@
 <div align="center">
-<img width="250" alt="readme_logo" src="https://github.com/user-attachments/assets/e1284196-14fc-4649-a080-e012808c43e1" />
 
+<img width="1020" height="1358" alt="readme_logo" src="https://github.com/user-attachments/assets/bc0cb328-f0ab-479e-9727-52457c08d8b4" />
 
 --- 
 **AI-Powered Image Editing Workflows**
