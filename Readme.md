@@ -1,16 +1,11 @@
 <div align="center">
-<img width="250" alt="readme_logo" src="https://github.com/user-attachments/assets/e1284196-14fc-4649-a080-e012808c43e1" />
 
+<img width="1020" height="1358" alt="readme_logo" src="https://github.com/user-attachments/assets/bc0cb328-f0ab-479e-9727-52457c08d8b4" />
 
 --- 
 **AI-Powered Image Editing Workflows**
-
-
-
-
-https://github.com/user-attachments/assets/b2628d64-26c3-4ce5-aec1-07bd6889ddd6
-
-
+[Task 1/Task_1_Interactive_Demo.mp4
+](https://github.com/vivi27x/AdobePS-InterIIT-TM14.0/blob/a8902415944ba1f59e0ae37ab21efad17a324dc0/Task%201/Task_1_Interactive_Demo.mp4)
 </div>
 
 ---
