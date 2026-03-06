@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- <img width="1020" height="1358" alt="readme_logo" src="https://github.com/user-attachments/assets/bc0cb328-f0ab-479e-9727-52457c08d8b4" /> -->
-<img width="787" height="784" alt="icon" src="https://github.com/user-attachments/assets/f31c8376-ce99-4af8-9a10-19dc82d94ac1" />
+<img width="510" height="679" alt="readme_logo" src="https://github.com/user-attachments/assets/bc0cb328-f0ab-479e-9727-52457c08d8b4" /> 
+<!-- <img width="787" height="784" alt="icon" src="https://github.com/user-attachments/assets/f31c8376-ce99-4af8-9a10-19dc82d94ac1" /> -->
 
 --- 
 **AI-Powered Image Editing Workflows**
