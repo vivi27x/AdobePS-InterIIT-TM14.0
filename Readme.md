@@ -5,7 +5,9 @@
 
 --- 
 **AI-Powered Image Editing Workflows**
+
 https://github.com/user-attachments/assets/3297a5bb-932a-4f11-9d73-8877f2b1138d
+
 </div>
 
 ---
