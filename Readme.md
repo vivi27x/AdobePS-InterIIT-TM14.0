@@ -5,7 +5,7 @@
 
 --- 
 **AI-Powered Image Editing Workflows**
-video goes here !
+https://github.com/user-attachments/assets/3297a5bb-932a-4f11-9d73-8877f2b1138d
 </div>
 
 ---
@@ -17,7 +17,8 @@ Adobe Spatia is an AI-powered image editing application that combines fast on-de
 ---
 
 ## Future Of Adobe
-video goes here !
+
+https://github.com/user-attachments/assets/c53c4c2f-4960-493c-96b8-60e35516178d
 
 ---
 
